@@ -1,0 +1,11 @@
+sys
+opencv-python
+argparse
+numpy
+face_recognition
+time
+engine
+scipy.spatial
+threading
+queue
+pyttsx3
